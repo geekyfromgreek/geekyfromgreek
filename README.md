@@ -30,7 +30,6 @@ Here are some of the cool things I've built. Check out my repositories for more!
 - 🕉️ **[KumbhAarambh](https://github.com/geekyfromgreek/KumbhAarambh)** - An innovative technological approach blending culture and code. *(TypeScript)*
 - ⚡ **[INTELLIX](https://github.com/geekyfromgreek/INTELLIX)** - Smart, intelligent, and next-generation web applications. *(HTML)*
 - 🤖 **[ai-odyssey](https://github.com/geekyfromgreek/ai-odyssey)** - Exploring the boundaries of AI & machine learning. *(JavaScript)*
-- 🔍 **[Object Detection AI](https://github.com/geekyfromgreek/Code-Alpha-Object-Detection-by-nakul-karpe)** - Exploring computer vision and AI models. *(Python)*
 
 ### 📈 GitHub Stats
 <div align="center">
@@ -47,7 +46,7 @@ Here are some of the cool things I've built. Check out my repositories for more!
 <div align="center">
   <i>"Writing code that vibes, training models that learn."</i><br><br>
   <b>Let's connect and build something amazing!</b><br><br>
-  <a href="https://linkedin.com/in/nakulkarpe" target="_blank">
+  <a href="https://www.linkedin.com/in/nakul-karpe-6a317a383" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
