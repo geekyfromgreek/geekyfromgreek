@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Nakul+Karpe!;Building+AI+that+learns.;Writing+code+that+vibes." alt="Typing SVG" />
 </div>
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<div align="center">
   <img src="./nakul.png" alt="Nakul Karpe Banner" width="100%" />
 </div>
 
