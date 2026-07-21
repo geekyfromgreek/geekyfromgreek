@@ -51,21 +51,13 @@ Here are some of the cool things I've built. Check out my repositories for more!
 </div>
 <br/>
 
-### 📈 GitHub Stats
-<div align="center">
-  <!-- Dynamic Realtime Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekyfromgreek&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" width="100%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geekyfromgreek&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=ffffff" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekyfromgreek&theme=radium&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff" height="150" />
-</div>
+
+#
 
 
-### 🏆 Top Languages
+## 🏆 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekyfromgreek&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=ffffff" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geekyfromgreek&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=ffffff" />
 </div>
 
 ---
