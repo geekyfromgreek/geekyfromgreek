@@ -8,6 +8,10 @@
 
 
 <h3 align="center">✨ A Vibe Coder exploring the magic of AI/ML & crafting intelligent applications ✨</h3>
+<div align="center">
+  <a href="https://linkedin.com/in/nakul-karpe-6a317a383" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/geekyfromgreek" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
+</div>
 
 ---
 
@@ -36,11 +40,23 @@ Here are some of the cool things I've built. Check out my repositories for more!
 - ⚡ **[INTELLIX](https://github.com/geekyfromgreek/INTELLIX)** - Smart, intelligent, and next-generation web applications. *(HTML)*
 - 🤖 **[ai-odyssey](https://github.com/geekyfromgreek/ai-odyssey)** - Exploring the boundaries of AI & machine learning. *(JavaScript)*
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geekyfromgreek&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+<br/>
+
 ### 📈 GitHub Stats
+<div align="center">
+  <!-- Dynamic Realtime Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekyfromgreek&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" width="100%" />
+</div>
+<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geekyfromgreek&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=ffffff" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekyfromgreek&theme=radium&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff" height="150" />
 </div>
+
 
 ### 🏆 Top Languages
 <div align="center">
@@ -50,8 +66,4 @@ Here are some of the cool things I've built. Check out my repositories for more!
 ---
 <div align="center">
   <i>"Writing code that vibes, training models that learn."</i><br><br>
-  <b>Let's connect and build something amazing!</b><br><br>
-  <a href="https://www.linkedin.com/in/nakul-karpe-6a317a383" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+  
