@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Nakul%20Karpe!&fontSize=50&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Nakul+Karpe!;Building+AI+that+learns.;Writing+code+that+vibes." alt="Typing SVG" />
 </div>
+<div align="center">
+  <img src="./nakul.png" alt="Nakul Karpe Banner" width="100%" />
+</div>
+
+
 
 <h3 align="center">✨ A Vibe Coder exploring the magic of AI/ML & crafting intelligent applications ✨</h3>
 
