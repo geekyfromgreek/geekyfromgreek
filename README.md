@@ -20,7 +20,7 @@
 
 <div align="center">
   <!-- This is where your GIF will load! -->
-  <img src="./shodan.gif" alt="Shodan 3D Model" width="600" />
+  <img src="./git-ezgif.com-optimize.gif" alt="Shodan 3D Model" width="600" />
 </div>
 <br/>
 
