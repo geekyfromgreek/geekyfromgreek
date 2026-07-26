@@ -54,32 +54,7 @@
   <img src="./nakul.png" alt="Nakul Karpe Banner" width="100%" />
 </div>
 
-<h3 align="center">
-✨ Building intelligent systems with Machine Learning, Deep Learning & Generative AI ✨
-</h3>
-
-<div align="center">
-  <a href="https://linkedin.com/in/nakul-karpe-6a317a383" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/geekyfromgreek" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-  </a>
-</div>
-
----
-
-# 🚀 About Me
-
-- 🤖 **AI/ML Engineer** passionate about building intelligent systems using **Machine Learning, Deep Learning, and Generative AI**.
-- 🏆 **National Hackathon Winner** – **Gen AI Hackathon (TECHSITRC 2026)**.
-- 📚 **Currently Learning:** Advanced Machine Learning, Deep Learning, MLOps, Agentic AI, and Large Language Models.
-- 🔬 **Building:** Real-world AI applications focused on predictive analytics, intelligent automation, and AI-powered tools.
-- 🌱 **Goal:** Transform research and ideas into production-ready AI solutions that solve practical problems.
-- 🎨 **Side Hobby:** I enjoy vibe coding to rapidly prototype creative ideas and polished user experiences.
-
----
-
+<
 # 💻 Tech Stack & Tools
 
 <p align="center">
