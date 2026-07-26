@@ -23,7 +23,7 @@
 
 # 🚀 About Me
 
-- 🤖 **AI & Machine Learning Enthusiast** passionate about building intelligent applications and solving real-world problems with data.
+- 🤖 **AI & Machine Learning Engineer** passionate about building intelligent applications and solving real-world problems with data.
 - 🏆 **National Hackathon Winner** – **Gen AI Hackathon (TECHSITRC 2026)**.
 - 📚 **Currently Learning:** Machine Learning and Deep Learning while building hands-on projects to strengthen my practical skills.
 - 🔬 **Current Focus:** Applying ML concepts through real-world projects and gradually exploring Deep Learning, Generative AI, and MLOps.
