@@ -23,11 +23,11 @@
 
 # 🚀 About Me
 
-- 🤖 **AI/ML Engineer** passionate about building intelligent systems using **Machine Learning, Deep Learning, and Generative AI**.
+- 🤖 **AI & Machine Learning Enthusiast** passionate about building intelligent applications and solving real-world problems with data.
 - 🏆 **National Hackathon Winner** – **Gen AI Hackathon (TECHSITRC 2026)**.
-- 📚 **Currently Learning:** Advanced Machine Learning, Deep Learning, MLOps, Agentic AI, and Large Language Models.
-- 🔬 **Building:** Real-world AI applications focused on predictive analytics, intelligent automation, and AI-powered tools.
-- 🌱 **Goal:** Transform research and ideas into production-ready AI solutions that solve practical problems.
+- 📚 **Currently Learning:** Machine Learning and Deep Learning while building hands-on projects to strengthen my practical skills.
+- 🔬 **Current Focus:** Applying ML concepts through real-world projects and gradually exploring Deep Learning, Generative AI, and MLOps.
+- 🌱 **Goal:** Become a skilled AI/ML Engineer by continuously learning, building, and contributing to impactful AI solutions.
 - 🎨 **Side Hobby:** I enjoy vibe coding to rapidly prototype creative ideas and polished user experiences.
 
 ---
