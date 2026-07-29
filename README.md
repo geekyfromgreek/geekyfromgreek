@@ -60,7 +60,7 @@ Here are some of the cool things I've built. Check out my repositories for more!
 - ⚡ **[Nashik AQI Prediction](https://github.com/geekyfromgreek/nashik-AQI-prediction)** - Machine learning-driven air quality analysis and AQI prediction for Nashik using data analytics and predictive modeling. *(Jupyter Notebook)*
 - 🪐 **[Scaffold](https://github.com/geekyfromgreek/Scaffold)** - An offline AI CLI tool made using the Gemma4 model. *(Python)*
 - 🕉️ **[KumbhAarambh](https://github.com/geekyfromgreek/KumbhAarambh)** - An innovative technological approach blending culture and code. *(TypeScript)*
-- 🤖 **[ai-odyssey](https://github.com/geekyfromgreek/ai-odyssey)** - Exploring the boundaries of AI & machine learning. *(JavaScript)*
+- 🤖 **[ai-odyssey](https://github.com/geekyfromgreek/ai-odyssey)** - Exploring the boundaries of AI & machine learning. *(National Hackathon Winner)*
 
 ### 🐍 Contribution Snake
 <div align="center">
