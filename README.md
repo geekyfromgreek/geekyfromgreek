@@ -35,7 +35,7 @@
 # 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,mongodb,git,github,vscode,java,react,nextjs,html,css,js,tailwind,vercel"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,git,vscode,java,react,html,css,js"/>
 </p>
 
 <p align="center">
@@ -45,14 +45,8 @@
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
-
-<div align="center">
-  <img src="./git-ezgif.com-optimize.gif" alt="Shodan 3D Model" width="600" />
-</div>
-
-<br/>
-
 ## 🚀 My Projects
 
 - **[Intel Image Classification using CNN](https://github.com/geekyfromgreek/Intel-Image-Classification)** - Deep learning project for classifying natural scene images into six categories using TensorFlow and Keras. Includes model evaluation and a Streamlit application for image classification.
