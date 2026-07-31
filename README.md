@@ -14,10 +14,7 @@
   <a href="https://linkedin.com/in/nakul-karpe-6a317a383" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/geekyfromgreek" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-  </a>
-</div>
+  
 
 ---
 
