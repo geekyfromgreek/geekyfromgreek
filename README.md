@@ -47,7 +47,8 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
-## 🚀 My Projects
+
+# 🚀 My Projects
 
 - **[Intel Image Classification using CNN](https://github.com/geekyfromgreek/Intel-Image-Classification)** - Deep learning project for classifying natural scene images into six categories using TensorFlow and Keras. Includes model evaluation and a Streamlit application for image classification.
 
