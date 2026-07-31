@@ -47,7 +47,7 @@
 
 # 🚀 My Projects
 
-- **[Intel Image Classification using CNN](https://github.com/geekyfromgreek/Intel-Image-Classification)** - Deep learning project for classifying natural scene images into six categories using TensorFlow and Keras. Includes model evaluation and a Streamlit application for image classification.
+- **[Intel Image Classification using CNN](https://github.com/geekyfromgreek/Intel-Image-Classification-CNN)** - Deep learning project for classifying natural scene images into six categories using TensorFlow and Keras. Includes model evaluation and a Streamlit application for image classification.
 
 - **[Nashik AQI Prediction](https://github.com/geekyfromgreek/nashik-AQI-prediction)** - Machine learning project for predicting Nashik's Air Quality Index using feature engineering, exploratory data analysis, and regression models.
 
