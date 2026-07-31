@@ -35,32 +35,36 @@
 # 💻 Tech Stack & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,mongodb,git,github,vscode,java,react,html,css,js"/>
-
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,mongodb,git,github,vscode,java,react,nextjs,html,css,js,tailwind,vercel"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 <div align="center">
-  <!-- This is where your GIF will load! -->
   <img src="./git-ezgif.com-optimize.gif" alt="Shodan 3D Model" width="600" />
 </div>
+
 <br/>
 
-### 🔥 My Projects (Vibe Check)
-Here are some of the cool things I've built. Check out my repositories for more!
-- ⚡ **[Nashik AQI Prediction](https://github.com/geekyfromgreek/nashik-AQI-prediction)** - Machine learning-driven air quality analysis and AQI prediction for Nashik using data analytics and predictive modeling. *(Jupyter Notebook)*
-- 🪐 **[Scaffold](https://github.com/geekyfromgreek/Scaffold)** - An offline AI CLI tool made using the Gemma4 model. *(Python)*
-- 🕉️ **[KumbhAarambh](https://github.com/geekyfromgreek/KumbhAarambh)** - An innovative technological approach blending culture and code. *(TypeScript)*
-- 🤖 **[ai-odyssey](https://github.com/geekyfromgreek/ai-odyssey)** - Exploring the boundaries of AI & machine learning. *(National Hackathon Winner)*
+## 🚀 My Projects
+
+- **[Intel Image Classification using CNN](https://github.com/geekyfromgreek/Intel-Image-Classification)** - Deep learning project for classifying natural scene images into six categories using TensorFlow and Keras. Includes model evaluation and a Streamlit application for image classification.
+
+- **[Nashik AQI Prediction](https://github.com/geekyfromgreek/nashik-AQI-prediction)** - Machine learning project for predicting Nashik's Air Quality Index using feature engineering, exploratory data analysis, and regression models.
+
+- **[Scaffold](https://github.com/geekyfromgreek/Scaffold)** - Offline AI-powered learning assistant built with Gemma 4 to help students understand programming concepts locally.
+
+- **[KumbhAarambh](https://github.com/geekyfromgreek/KumbhAarambh)** - Smart solution developed for Mahakumbh, combining AI and modern web technologies to improve the pilgrim experience.
+
+- **[ai-odyssey](https://github.com/geekyfromgreek/ai-odyssey)** - AI and machine learning project developed during a national-level hackathon.
+
 
 ### 🐍 Contribution Snake
 <div align="center">
