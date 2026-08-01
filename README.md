@@ -51,7 +51,7 @@
 
 - **[Nashik AQI Prediction](https://github.com/geekyfromgreek/nashik-AQI-prediction)** - Machine learning project for predicting Nashik's Air Quality Index using feature engineering, exploratory data analysis, and regression models.
 
-- **[Scaffold](https://github.com/geekyfromgreek/Scaffold)** - Offline AI-powered learning assistant built with Gemma 4 to help students understand programming concepts locally.
+
 
 - **[KumbhAarambh](https://github.com/geekyfromgreek/KumbhAarambh)** - Smart solution developed for Mahakumbh, combining AI and modern web technologies to improve the pilgrim experience.
 
