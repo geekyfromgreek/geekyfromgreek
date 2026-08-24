@@ -69,10 +69,7 @@
 #
 
 
-## 🏆 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geekyfromgreek&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=ffffff" />
-</div>
+
 
 ---
 <div align="center">
