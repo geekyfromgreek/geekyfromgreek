@@ -22,8 +22,9 @@
 
 - 🤖 **AI & Machine Learning Engineer** passionate about building intelligent applications and solving real-world problems with data.
 - 🏆 **National Hackathon Winner** – **Gen AI Hackathon (TECHSITRC 2026)**.
-- 📚 **Currently Learning:** Machine Learning and Deep Learning while building hands-on projects to strengthen my practical skills.
-- 🔬 **Current Focus:** Applying ML concepts through real-world projects and gradually exploring Deep Learning, Generative AI, and MLOps.
+- 🏆 **Hackathon Winner** – **KIM IGNITE 2026 – Nashik Edition, Track 3**.
+- 📚 **Currently Learning:** SIH 2026 Problem Statement 26142, Deep Learning, Computer Vision, Image Super-Resolution, and Remote Sensing/Satellite Imagery.
+- 🔬 **Current Focus:** Building with deep learning models for satellite image super-resolution while strengthening practical AI/ML expertise.
 - 🌱 **Goal:** Become a skilled AI/ML Engineer by continuously learning, building, and contributing to impactful AI solutions.
 - 🎨 **Side Hobby:** I enjoy vibe coding to rapidly prototype creative ideas and polished user experiences.
 
@@ -32,7 +33,7 @@
 # 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,git,vscode,java,react,html,css,js"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,git,vscode,java,react,html,css,js"/>
 </p>
 
 <p align="center">
@@ -45,6 +46,14 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
 
+## 🧠 AI/ML Skills
+
+- **Machine Learning:** Scikit-learn, Regression, Classification, Feature Engineering, Model Evaluation
+- **Deep Learning:** PyTorch, TensorFlow, Keras, CNNs, Residual Networks, Attention Mechanisms
+- **Computer Vision:** Image Classification, Image Processing, Super-Resolution, RCAN
+- **Remote Sensing:** Satellite Imagery, Super-Resolution Mapping, Sentinel-2
+- **Generative AI / NLP:** Generative AI, Transformers, BERT, RAG, NLP
+
 # 🚀 My Projects
 
 - **[Intel Image Classification using CNN](https://github.com/geekyfromgreek/Intel-Image-Classification-CNN)** - Deep learning project for classifying natural scene images into six categories using TensorFlow and Keras. Includes model evaluation and a Streamlit application for image classification.
@@ -53,7 +62,7 @@
 
 
 
-- **[KumbhAarambh](https://github.com/geekyfromgreek/KumbhAarambh)** - Smart solution developed for Mahakumbh, combining AI and modern web technologies to improve the pilgrim experience.
+- **[KumbhSetu](https://github.com/geekyfromgreek/KumbhSetu)** - Smart civic coordination platform designed for the Kumbh, connecting pilgrims, volunteers, local stakeholders, and authorities to improve the overall pilgrim experience.
 
 - **[ai-odyssey](https://github.com/geekyfromgreek/ai-odyssey)** - AI and machine learning project developed during a national-level hackathon.
 
