@@ -23,7 +23,7 @@
 - 🤖 **AI & Machine Learning Engineer** passionate about building intelligent applications and solving real-world problems with data.
 - 🏆 **National Hackathon Winner** – **Gen AI Hackathon (TECHSITRC 2026)**.
 - 🏆 **Industrial Hackathon Winner** – **KIM IGNITE 2026 – Nashik Edition, Track 3**.
-- 📚 **Currently Learning:** SIH 2026 Problem Statement 26142, Deep Learning, Computer Vision, Image Super-Resolution, and Remote Sensing/Satellite Imagery.
+- 📚 **Currently Learning:** Super Resolution Deep Attention Networks, Hallucination Detection Verification and Mitigation,Deep Learning, Computer Vision, Image Super-Resolution, and Remote Sensing/Satellite Imagery.
 - 🔬 **Current Focus:** Building with deep learning models for satellite image super-resolution while strengthening practical AI/ML expertise.
 - 🌱 **Goal:** Become a skilled AI/ML Engineer by continuously learning, building, and contributing to impactful AI solutions.
 - 🎨 **Side Hobby:** I enjoy vibe coding to rapidly prototype creative ideas and polished user experiences.
